@@ -21,7 +21,7 @@ SwiftCare is a revolutionary web application designed to assist family doctors i
   - Personalized remedy recommendations based on patient data and current best practices.
   - Continuous learning and improvement through AI algorithms.
 
-**Why SwiftCare Pro:**
+**Why SwiftCare :**
 
 - **Time Efficiency:**
   - Enables doctors to perform thorough analyses in a fraction of the time.
