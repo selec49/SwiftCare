@@ -38,7 +38,7 @@ SwiftCare is a revolutionary web application designed to assist family doctors i
 **Getting Started:**
 
 1. Clone the repository:
-git clone https://github.com/
+git clone https://github.com/selec49/SwiftCare.git
 
 2. Install dependencies:
 npm install
