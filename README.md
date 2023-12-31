@@ -1,8 +1,8 @@
-# SwiftCare Pro: Intelligent Health Analysis and Remedy Recommender
+# SwiftCare : Intelligent Health Analysis and Remedy Recommender
 
 **Overview:**
 
-SwiftCare Pro is a revolutionary web application designed to assist family doctors in performing quicker and more comprehensive health analyses for their patients. Leveraging the power of Artificial Intelligence (AI), this platform integrates hereditary disease checkups, routine examinations, and offers personalized recommendations for the most effective remedies available.
+SwiftCare is a revolutionary web application designed to assist family doctors in performing quicker and more comprehensive health analyses for their patients. Leveraging the power of Artificial Intelligence, this platform integrates hereditary disease checkups, routine examinations, and offers personalized recommendations for the most effective remedies available.
 
 **Key Features:**
 
