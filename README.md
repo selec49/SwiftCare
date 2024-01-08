@@ -51,3 +51,15 @@ npm start
 **Contribution:**
 
 We welcome contributions from the open-source community. If you have ideas for improvements or want to report issues, please submit a pull request or open an issue.
+
+**Used technology**
+
+Backend: Django with PostgreSQL database
+
+Frontend: React
+
+Model Setup: Depending on the specific AI or ML libraries you decide to use (like TensorFlow or PyTorch)
+
+Continuous Integration and Deployment (CI/CD): GitHub
+
+Cloud Services: AWS, Azure, or Google Cloud
