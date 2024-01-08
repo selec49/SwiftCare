@@ -52,7 +52,7 @@ npm start
 
 We welcome contributions from the open-source community. If you have ideas for improvements or want to report issues, please submit a pull request or open an issue.
 
-**Used technology**
+**Used technology:**
 
 Backend: Django with PostgreSQL database
 
