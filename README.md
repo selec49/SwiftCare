@@ -48,6 +48,17 @@ npm start
 
 4. Access the application at `http://localhost:3000`.
 
-**Contribution:**
 
-We welcome contributions from the open-source community. If you have ideas for improvements or want to report issues, please submit a pull request or open an issue.
+## Technologies Used
+
+### Backend
+- **Python (Django):** The backend is built using the Django web framework, providing a robust and scalable foundation for handling server-side logic.
+
+### Frontend
+- **React:** The user interface is developed using React, a popular JavaScript library for building modern and interactive web applications.
+
+### Continuous Integration/Continuous Deployment (CI/CD)
+- **GitHub Actions:** The project incorporates GitHub Actions for automating the CI/CD pipeline, ensuring seamless integration and deployment processes.
+
+### Artificial Intelligence
+- **PyTorch:** PyTorch is employed for AI development, offering powerful tools and libraries for building and training machine learning models.
